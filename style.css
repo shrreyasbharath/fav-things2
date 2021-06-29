@@ -1,0 +1,108 @@
+body {
+    text-align: center;
+    padding-top: 716px;
+    zoom:0.9
+ 
+
+}
+
+#My-Favorite-character {
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    height: 800px;
+    display: table;
+    width: 100%;
+    
+   
+
+}
+
+.first-p-i {
+    display: table-cell;
+    position: relative;
+    vertical-align: middle;
+    
+}
+
+.image {
+    border-radius: 1%;
+    height: 300px;
+    padding: 4%;
+}
+
+.dash {
+    width: 70px;
+    height: 6px;
+    background: black;
+    margin: 8px auto;
+    
+    
+}
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500&display=swap');
+#About {
+    font-size:25px;
+    font-family: 'Playfair Display', serif;
+    background: linear-gradient(90deg, rgba(0,183,255,1) 0%, rgba(230,114,114,1) 50%, rgba(252,176,69,1) 100%);
+}
+ #career{
+    padding: 30px;
+     background: linear-gradient(90deg, rgba(0,183,255,1) 0%, rgba(230,114,114,1) 50%, rgba(252,176,69,1) 100%);
+
+}
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital@1&display=swap');
+h1{
+font-size: 90px;  
+    font-family: 'Playfair Display', serif;
+}
+.menu{
+    list-style: none;
+    position:fixed;
+    cursor:pointer;
+    z-index: 10;
+    top:10px;
+    font-family: 'Roboto Mono', monospace;
+    width:100%;
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(209,49,49,1) 12%, rgba(120,9,121,1) 35%, rgba(30,222,168,1) 84%, rgba(0,212,255,1) 100%);
+    font-size:25px;
+    margin-top:0;
+    opacity: 100%;
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(209,49,49,1) 12%, rgba(120,9,121,1) 35%, rgba(30,222,168,1) 84%, rgba(0,212,255,1) 100%);
+    padding: 10px;
+    letter-spacing: px;
+        
+}
+link{
+ 
+    padding-left:25px;
+    padding-right:35px;
+
+}
+a:hover{
+    color:aqua;
+    font-style: italic;
+    background-color: red;
+    font-size: 50px;
+    border-radius: 50px;
+    
+}
+a:active{
+    color:black;
+    font-size: 30px;
+}
+a{
+    color: yellow;
+    text-decoration: none;
+}
+li {
+  display: inline;
+}
+html{
+    scroll-behavior: smooth;
+}
+.text{
+    font-family: 'Odibee Sans', cursive;
+}
